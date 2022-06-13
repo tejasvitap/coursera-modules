@@ -32,17 +32,17 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.lebesgue>h2 {
-    background-color: #76b8db;
+section.chicken>h2 {
+    background-color: #FFC0CB;
 }
 
-section.fubini>h2 {
-    background-color: #4f7acd;
+section.beef>h2 {
+    background-color: #DC143C ;
 }
 
-section.luzin>h2 {
+section.sushi>h2 {
     color: #e2e2e2;
-    background-color: #10328a;
+    background-color:   #F4A460;
 }
 
 section>p {
